@@ -1,2 +1,1 @@
-# devinhouse_exercises_week1
-Exercícios desenvolvidos durante a primeira semana do curso DEVinHouse - SENAI.
+# Exercícios desenvolvidos nas semanas 1 e 2 do primeiro módulo do curso DEVinHouse - SENAI.
